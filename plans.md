@@ -1,6 +1,10 @@
 # DREAM BIG 
 > quora
-> write weekly 
+> 
+> write weekly
+>  
 > plan up
+> 
 > skill 
+> 
 > publish in articles 
