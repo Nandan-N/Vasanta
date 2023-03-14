@@ -1,4 +1,3 @@
-# Aimer-et-cherir 
-十分な高さの山もなく、十分な深さの谷もない
+# Weather Station 
 
-Language learning files of Linguista club, Pes university 
+MPCA hardware project
