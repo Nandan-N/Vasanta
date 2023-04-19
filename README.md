@@ -4,7 +4,7 @@
 The weather station is an IOT project that collects the following data related to the weather and environment using different sensors on an arduino board :
 
 ### REQUIRED SENSORS:
-- Temperature & Humidity : ```DHT22 SENSOR```<br><img src="https://hackster.imgix.net/uploads/attachments/194717/FGRE2J4IOXJ1IHX.LARGE.jpg?auto=compress%2Cformat&w=740&h=555&fit=max" alt="image" width="200"/>
+- Temperature & Humidity : ```DHT22 SENSOR```<br>  <img src="https://hackster.imgix.net/uploads/attachments/194717/FGRE2J4IOXJ1IHX.LARGE.jpg?auto=compress%2Cformat&w=740&h=555&fit=max" alt="image" width="200"/>
 <!-- ![image](https://hackster.imgix.net/uploads/attachments/194717/FGRE2J4IOXJ1IHX.LARGE.jpg?auto=compress%2Cformat&w=740&h=555&fit=max) -->
 - Atmospheric pressure : `BAROMETER SENSOR - BMP 180`<br><img src="https://m.media-amazon.com/images/I/51ZHs-WXUML._SY450_.jpg" alt="image" width="200"/>
 <!-- ![image](https://m.media-amazon.com/images/I/51ZHs-WXUML._SY450_.jpg) -->
@@ -32,4 +32,4 @@ The weather station is an IOT project that collects the following data related t
   - [Adafruit BMP085 library](https://github.com/adafruit/Adafruit-BMP085-Library)
   - Then work with the code uploaded in the drive.
 
-- For further insights, please refer to the attached [PPT](https://github.com/smsraj2001/WEATHER-STATION-ARDUINO/blob/main/SENSORS_BOARD_DESCRIPTION.pdf)
+- For further insights, please refer to the attached [PPT](https://github.com/Nandan-N/Vasanta/blob/main/SENSORS_BOARD_DESCRIPTION.pdf)
