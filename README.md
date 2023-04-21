@@ -33,3 +33,7 @@ The weather station is an IOT project that collects the following data related t
   - Then work with the code uploaded in the drive.
 
 - For further insights, please refer to the attached [PPT](https://github.com/Nandan-N/Vasanta/blob/main/SENSORS_BOARD_DESCRIPTION.pdf)
+
+### Output 
+![output](https://github.com/Nandan-N/Vasanta/blob/main/Screenshot%202023-04-21%20123815.png)
+
